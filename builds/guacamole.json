@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "maintainer": "Chuqol",
+      "oem": "OnePlus",
+      "device": "7 Pro",
+      "filename": "EvolutionX-14.0-202405272-guacamole-v9.0-UNOFFICIAL.zip",
+      "download": "https://sourceforge.net/projects/evolution-x-guacamole/files/EvolutionX-14.0-202405272-guacamole-v9.0-UNOFFICIAL.zip/download",
+      "timestamp": 1716814160,
+      "md5": "4db02557e3d3f2fcd9c0b00018c204c1",
+      "sha256": "4251173a67c2f255edf6b36b1432f7c70fca62f95cff6c6ceb15893525fc1359",
+      "size": 1763948984,
+      "version": "9.0",
+      "buildtype": "Release",
+      "forum": "https://xdaforums.com/t/rom-14-0-0_r35-unofficial-evolution-x-9-0-05-26-2024.4673786/",
+      "firmware": "",
+      "paypal": "https://paypal.com/paypalme/chuqol",
+      "telegram": "https://t.me/chuqol"
+    }
+  ]
+}
