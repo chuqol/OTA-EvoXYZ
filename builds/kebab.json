@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "maintainer": "Chuqol",
+      "oem": "OnePlus",
+      "device": "8T",
+      "filename": "EvolutionX-14.0-20240721-kebab-v9.2-UNOFFICIAL.zip",
+      "download": "https://sourceforge.net/projects/evolution-xyz-kebab/files/EvolutionX-14.0-20240721-kebab-v9.2-UNOFFICIAL.zip/download",
+      "timestamp": 1721581732,
+      "md5": "f7819e288aef6e5588636e35d7bdfe3d",
+      "sha256": "5b5fc4c796a9713d18c2da51084ade1293bd16f6475a17e6dcafee379e363f25",
+      "size": 2147294780,
+      "version": "9.2",
+      "buildtype": "Release",
+      "forum": "https://xdaforums.com/t/rom-14-0_r35-unofficial-evolution-x-9-0-06-07-2024.4642775/",
+      "firmware": "",
+      "paypal": "https://paypal.com/paypalme/chuqol",
+      "telegram": "https://t.me/chuqol"
+    }
+  ]
+}

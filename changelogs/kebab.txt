@@ -1,0 +1,5 @@
+Updated to July SP
+Implemented OTA updates
+
+This build is based on oos 13.1 F69
+
