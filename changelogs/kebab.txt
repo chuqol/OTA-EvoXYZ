@@ -1,5 +1,5 @@
-Updated to July SP
-Implemented OTA updates
+Updated to latest sources
+Fixed Mobile data issue
 
-This build is based on oos 13.1 F69
+This build is based on OOS 14
 
