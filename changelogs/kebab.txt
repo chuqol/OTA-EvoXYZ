@@ -1,5 +1,10 @@
-Updated to latest sources
-Fixed Mobile data issue
+This is Android 14 with Semptember 2024 QPR3 (r67) security patches
 
-This build is based on OOS 14
+Notes:
+========================
+Clean flash is required if coming from March 2024 or older builds.
 
+
+Device changes:
+========================
+Removed OOS CAM
