@@ -1,1 +1,11 @@
-Initial release
+This is Android 14 with September 2024 QPR3 (r67) security patches
+
+Notes:
+
+==============================
+
+- LineageOS-based source. Signed build.
+
+- Lock/Unlock sounds added
+
+- Switched to pico gapps
